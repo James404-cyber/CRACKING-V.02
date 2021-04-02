@@ -8,13 +8,13 @@
 <h2 align="center">  CRACKING TOOL </h2>
 
 <p align="center">
-      LATEST FB WITHOUT FB LOGIN NUMBER CRACK
+      LATEST FB CRACKING LOGIN WITH TOKEN 
 </p>
 
 
 
 <p align="center">
-  WITHOUT ID LOGIN INDIAN CRACKING
+  FACEBOOK CRACKER
 
 
 ## <b>installation</b>
