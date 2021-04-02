@@ -8,13 +8,13 @@
 <h2 align="center">  CRACKING TOOL </h2>
 
 <p align="center">
-      LATEST FB CRACKING LOGIN WITH TOKEN 
+      LATEST FB CRACKING LOGIN WITH TOKEN  AND COOKIES 
 </p>
 
 
 
 <p align="center">
-  FACEBOOK CRACKER
+  FACEBOOK CRACKER PUBLIC ID
 
 
 ## <b>installation</b>
