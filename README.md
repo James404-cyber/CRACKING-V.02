@@ -20,6 +20,8 @@
 ## <b>installation</b>
 
 ```
+Just one time run this 👉 rm -rf CRACKING-V.02  
+
 $ pkg update
 $ pkg upgrade
 $ pkg install python
