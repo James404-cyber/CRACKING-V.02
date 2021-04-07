@@ -25,9 +25,9 @@
 ## <b>installation</b>
 
 ```
-Just one time run this 👇
+Just one time run this:👇
 
-rm -rf CRACKING-V.02  
+     rm -rf CRACKING-V.02  
 
 $ pkg update
 $ pkg upgrade
